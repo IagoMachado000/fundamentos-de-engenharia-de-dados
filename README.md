@@ -393,3 +393,23 @@ São ferramentas e plataformas voltadas para **ingestão, processamento e análi
 
 ---
 
+### O processo de engenharia de dados
+
+* A engenharia de dados fornece o suporte necessário para que o processo de Ciência de Dados possa ser executado
+* A Engenharia de Dados não participa de todo o processo de Ciência de Dados, mas sim das atividades onde deve haver gestão de dados
+* Uma das primeiras etapas do processo é a extração de dados de uma ou mais fonts, de dados em batch ou dados em streaming
+* A etapa seguinte envolve a preparação dos dados com atividades de limpeza, transformação, enriquecimento e segurança de acesso
+* O processo continua com o armazenamento dos dados no destino ou uso em tempo real 
+* Mas o que seria o uso dos dados? Análise, gráficos, dashboards, machine learning, IA ou qualquer outra tarefa de Ciência de dados
+* O pipeline de dados pode ser executado uma única vez ou diversas vezes
+* A execução do pipeline requer monitoramento, segurança, validação e documentação
+* O pipeline de dados é então criado, documentado e automatizado
+* E então outro processo será iniciado para outro produto de dados da empresa
+* Um Arquiteto de Dados é o responsável pro projetar a solução
+* O trabalho de um Engenheiro de Dados envolve construir e mantes a solução de dados
+
+---
+
+### Ciclo de vida da engenharia de dados
+
+![Diagrama ciclo de vida da engenharia de dados](./img/ciclo-de-vida-engenhraria-de-dados.png)
